@@ -1,4 +1,4 @@
-#GSalustrianoSouza
+## GSalustrianoSouza
 
 - ✨❯ My name's Gabriel, i'm a Analysis and Systems Development student.
 - 🍃❯ 19y
