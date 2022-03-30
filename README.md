@@ -1,8 +1,10 @@
-## Fala ae, eu sou o Gabriel S.
+# Fala ae, eu sou o Gabriel S.
 
 - ✨❯ Atualmente estudo Análise e Desenvolvimento de Sistemas
 - 🍃❯ Tenho 19 anos
 - 🪐❯ Estudando de tudo um pouco
+
+### >>> Perfil destinado a estudos <<<
 
 > NÓS damos sentido às vidas dos nossos colegas, uns morreram com CORAGEM, outros com MEDO! Mas quem dá sentido à vida deles somos NÓS, os vivos que não vão esquecer deles! Morremos confiando a nossa memória, AOS VIVOS QUE VÃO CONTINUAR! ~Erwin Smith
 
