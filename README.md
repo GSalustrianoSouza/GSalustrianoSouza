@@ -6,11 +6,11 @@
 
 > NÓS damos sentido às vidas dos nossos colegas, uns morreram com CORAGEM, outros com MEDO! Mas quem dá sentido à vida deles somos NÓS, os vivos que não vão esquecer deles! Morremos confiando a nossa memória, AOS VIVOS QUE VÃO CONTINUAR! ~Erwin Smith
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/GSalustrianoSouza">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GSalustrianoSouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+<a href="https://github.com/GSalustrianoSouza">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSalustrianoSouza&layout=compact&theme=dracula" />
 </a>
 
 ## Atualmente estudando:
