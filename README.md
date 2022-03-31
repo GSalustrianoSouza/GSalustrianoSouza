@@ -11,9 +11,6 @@
 <a href="https://github.com/GSalustrianoSouza">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GSalustrianoSouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/GSalustrianoSouza">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSalustrianoSouza&layout=compact&theme=dracula" />
-</a>
 
 ## Atualmente estudando:
 <div style="display: inline_block"><br>
