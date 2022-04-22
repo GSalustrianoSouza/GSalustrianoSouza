@@ -1,4 +1,4 @@
-# Fala ae, eu sou o Gabriel S.
+# Fala ae, sou o Sollix.
 
 - ✨❯ Atualmente estudo Análise e Desenvolvimento de Sistemas
 - 🍃❯ Tenho 19 anos
