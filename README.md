@@ -1,12 +1,12 @@
 # Fala ae, sou o Sollix.
 
-- ✨❯ Atualmente estudo Análise e Desenvolvimento de Sistemas
+- ✨❯ Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🍃❯ Tenho 19 anos
-- 🪐❯ Estudando de tudo um pouco
+- 🪐❯ Estudando atualmente <div style="display: inline_block">
+  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>
 
 ### >>> Perfil destinado a estudos <<<
-
-> NÓS damos sentido às vidas dos nossos colegas, uns morreram com CORAGEM, outros com MEDO! Mas quem dá sentido à vida deles somos NÓS, os vivos que não vão esquecer deles! Morremos confiando a nossa memória, AOS VIVOS QUE VÃO CONTINUAR! ~Erwin Smith
 
 <a href="https://github.com/GSalustrianoSouza">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GSalustrianoSouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
