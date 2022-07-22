@@ -1,4 +1,5 @@
-# Olá, meu nome é Gabriel e eu sou desenvolvedor Web.
+# Olá, meu nome é Gabriel!
+## Sou universitário e desenvolvedor Web.
 
 - ✨❯ Atualmente cursando Análise e Desenvolvimento de Sistemas (2/5)
 - 🍃❯ Tenho 19 anos
