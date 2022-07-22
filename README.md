@@ -1,6 +1,6 @@
-# Fala ae, sou o Sollix.
+# Olá, meu nome é Gabriel e eu sou desenvolvedor Web.
 
-- ✨❯ Atualmente cursando Análise e Desenvolvimento de Sistemas
+- ✨❯ Atualmente cursando Análise e Desenvolvimento de Sistemas (2/5)
 - 🍃❯ Tenho 19 anos
 - 🪐❯ Estudando atualmente: <div style="display: inline_block">
   <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
