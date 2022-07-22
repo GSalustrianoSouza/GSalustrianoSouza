@@ -1,8 +1,8 @@
 # Olá, meu nome é Gabriel!
-## Sou universitário e desenvolvedor Web.
+## Sou universitário e Desenvolvedor Front-End.
 
-- ✨❯ Atualmente cursando Análise e Desenvolvimento de Sistemas (2/5)
-- 🍃❯ Tenho 19 anos
+- ✨❯ Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/5)
+- 🍃❯ Tenho 19 anos e moro no Rio de Janeiro
 - 🪐❯ Estudando atualmente: <div style="display: inline_block">
   <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
