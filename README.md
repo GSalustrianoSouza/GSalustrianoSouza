@@ -10,8 +10,8 @@
   <a href="https://sass-lang.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"><a/>
   </div>
 * * * 
-- Trabalho utilizando:
-#### >>> | HTML | CSS | Less | JavaScript | <<<
+#### Trabalho utilizando:
+### >>> | HTML | CSS | Less | JavaScript | <<<
 * * *
 <a href="https://github.com/GSalustrianoSouza">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GSalustrianoSouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
