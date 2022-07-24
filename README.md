@@ -10,7 +10,6 @@
   <a href="https://sass-lang.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"><a/>
   </div>
 * * * 
-#### *Trabalho utilizando:
 ### >>> | HTML | CSS | Less | JavaScript | <<<
 * * *
 <a href="https://github.com/GSalustrianoSouza">
