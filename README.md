@@ -1,7 +1,7 @@
 # Olá, meu nome é Gabriel!
 ## Sou universitário e Desenvolvedor Front-End.
 
-- ✨❯ Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/5)
+- ✨❯ Atualmente estou cursando <ins>__*Análise e Desenvolvimento de Sistemas (2/5)*__</ins>
 - 🍃❯ Tenho 19 anos e moro no Rio de Janeiro
 - 🪐❯ Estudando atualmente: <div style="display: inline_block">
   <a href="https://git-scm.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><a/>
@@ -10,7 +10,7 @@
   <a href="https://sass-lang.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"><a/>
   </div>
 * * * 
-#### Trabalho utilizando:
+#### *Trabalho utilizando:
 ### >>> | HTML | CSS | Less | JavaScript | <<<
 * * *
 <a href="https://github.com/GSalustrianoSouza">
