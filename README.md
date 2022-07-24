@@ -4,8 +4,9 @@
 - ✨❯ Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/5)
 - 🍃❯ Tenho 19 anos e moro no Rio de Janeiro
 - 🪐❯ Estudando atualmente: <div style="display: inline_block">
-  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </div>
 
