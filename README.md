@@ -4,10 +4,10 @@
 - ✨❯ Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/5)
 - 🍃❯ Tenho 19 anos e moro no Rio de Janeiro
 - 🪐❯ Estudando atualmente: <div style="display: inline_block">
-  <img align="center" alt="after" height="30" width="40" href="https://git-scm.com/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <a href="https://git-scm.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><a/>
+  <a href="https://pt-br.reactjs.org/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><a/>
+  <a href="https://www.typescriptlang.org/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><a/>
+  <a href="https://sass-lang.com/"><img align="center" alt="after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"><a/>
   </div>
 
 ### >>> | HTML | CSS | Less | JavaScript | <<<
