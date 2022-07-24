@@ -11,7 +11,7 @@
   </div>
 * * * 
 - Trabalho utilizando:
-## >>> | HTML | CSS | Less | JavaScript | <<<
+#### >>> | HTML | CSS | Less | JavaScript | <<<
 * * *
 <a href="https://github.com/GSalustrianoSouza">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GSalustrianoSouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
