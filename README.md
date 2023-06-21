@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel+Souza;Tenho+20+anos+de+idade;Sou+do+Rio+de+Janeiro;Atualmente+cursando+ADS;Seja+bem-vindo+=%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-<a href="https://instagram.com/sollix_tw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/sollix_tw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://gabrielsalustriano.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" alt="Portfolio"></a>
 <a href = "mailto:gabrielsalustriano5566@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/gabrielsalustriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
